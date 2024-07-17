@@ -41,7 +41,7 @@ function App() {
   };
 
   const test = () => {
-    axios.get("http://223.130.156.9:80/").then(function (response) {
+    axios.get("http://175.106.96.187:80/").then(function (response) {
       // 성공한 경우 실행
       console.log(response);
     });
